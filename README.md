@@ -1,0 +1,6 @@
+# CAPSTONE-PROJECT
+I had Rectified my Capstone Project now and this repository contains the Rectified Project...  
+**Desciption:**  
+Exploring the Neighbourhood of Gandhinagar, Gujarat using Foursquare API and k-means clustering to segment the various food venues  
+
+\* Project Report will be added shortly...
